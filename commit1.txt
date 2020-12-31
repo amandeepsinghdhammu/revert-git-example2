@@ -1,1 +1,4 @@
 First commit msg
+
+
+Second commmit also want to change few lines in first commit
